@@ -1,65 +1,72 @@
 {
   "name": "湯川 秀樹",
-  "id": "yukawa",
+  "id": "yukawa_h",
   "active": false,
   "children": [
     {
       "name": "林 忠四郎",
-      "id": "hayashi",
+      "id": "hayashi_t",
       "active": false,
       "children": [
         {
-          "name": "蓬茨 霊運",
-          "id": "yoibari",
+          "name": "杉本　大一郎",
+          "id": "sugimoto_d",
           "active": false,
           "children": [
             {
               "name": "野本 憲一",
-              "id": "nomoto",
-              "active": false,
+              "id": "nomoto_k",
+              "active": true,
               "link": "person/nomoto.html",
               "children": [
                 {
                   "name": "橋本 正章",
-                  "id": "hashimoto",
-                  "active": true
-                },
-                {
-                  "name": "橘 孝博",
-                  "id": "tachibana",
+                  "id": "hashimoto_m",
                   "active": true
                 },
                 {
                   "name": "茂山 俊和",
-                  "id": "shigeyama",
+                  "id": "shigeyama_t",
                   "active": true
                 },
                 {
                   "name": "辻本 拓司",
-                  "id": "tsujimoto",
-                  "active": true
-                },
-                {
-                  "name": "熊谷 紫麻見",
-                  "id": "kumagai",
+                  "id": "tsujimoto_t",
                   "active": true
                 },
                 {
                   "name": "山岡 均",
-                  "id": "yamaoka",
-                  "active": true
-                },
-                {
-                  "name": "鈴木 知治",
-                  "id": "suzuki",
-                  "active": true
-                },
-                {
-                  "name": "牧野 淳一郎",
-                  "id": "makino",
-                  "active": true
+                  "id": "yamaoka_h",
+                  "active": false
                 }
               ]
+            },
+            {
+              "name": "牧野 淳一郎",
+              "id": "makino_j",
+              "active": true
+            },
+            {
+              "name": "江里口 良治",
+              "id": "eriguchi_r",
+              "active": false
+            },
+            {
+              "name": "戎崎 俊一",
+              "id": "ebisuzaki_t",
+              "active": true
+            }
+          ]
+        },
+        {
+          "name": "冨田 憲二",
+          "id": "tomida_k",
+          "active": false,
+          "children": [
+            {
+              "name": "杉山 直",
+              "id": "sugiyama_n",
+              "active": true
             }
           ]
         }
