@@ -55,6 +55,122 @@
     ]
   },
   {
+    "name": "萩原 雄祐",
+    "id": "hagiwara_y",
+    "active": false,
+    "field": "",
+    "affiliation": "",
+    "children": [
+      {
+        "name": "海野 和三郎",
+        "id": "unnno_w",
+        "active": false,
+        "field": "",
+        "affiliation": "",
+        "link": "person/unnno_w.html",
+        "children": [
+          {
+            "name": "尾崎 洋二",
+            "id": "ozaki_y",
+            "active": false,
+            "field": "",
+            "affiliation": "",
+            "link": "person/ozaki_y.html",
+            "children": [
+              {
+                "name": "嶺重慎",
+                "id": "mineshige_s",
+                "active": false,
+                "field": "",
+                "affiliation": "",
+                "link": "person/mineshige_s.html"
+              }
+            ]
+          },
+          {
+            "name": "加藤 正二",
+            "id": "kato_s",
+            "active": false,
+            "field": "",
+            "affiliation": "",
+            "link": "person/kato_s.html"
+          },
+          {
+            "name": "祖父江 義明",
+            "id": "sofue_y",
+            "active": false,
+            "field": "",
+            "affiliation": "",
+            "link": "person/sofue_y.html",
+            "children": [
+              {
+                "name": "本間 希樹",
+                "id": "honnma_m",
+                "active": true,
+                "field": "",
+                "affiliation": "",
+                "link": "person/honnma_m.html"
+              },
+              {
+                "name": "半田 利弘",
+                "id": "hannda_t",
+                "active": false,
+                "field": "",
+                "affiliation": "",
+                "link": "person/hannda_t.html"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "堀 源一郎",
+        "id": "hori_g",
+        "active": false,
+        "field": "",
+        "affiliation": "",
+        "link": "person/hori_g.html"
+      }
+    ]
+  },
+  {
+    "name": "菊池正士",
+    "id": "kikuchi_s",
+    "active": false,
+    "field": "",
+    "affiliation": "",
+    "children": [
+      {
+        "name": "渡瀬 譲",
+        "id": "watase_y",
+        "active": false,
+        "field": "",
+        "affiliation": "",
+        "link": "person/watase_y.html",
+        "children": [
+          {
+            "name": "小田 稔",
+            "id": "oda_m",
+            "active": false,
+            "field": "",
+            "affiliation": "",
+            "link": "person/oda_m.html",
+            "children": [
+              {
+                "name": "牧島 一夫",
+                "id": "makishima_k",
+                "active": false,
+                "field": "",
+                "affiliation": "",
+                "link": "person/makishima_k.html"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "湯川 秀樹",
     "id": "yukawa_h",
     "active": false,
@@ -302,25 +418,34 @@
             "field": "",
             "affiliation": "",
             "link": "person/morikawa_m.html"
+          },
+          {
+            "name": "中澤 清",
+            "id": "nakazawa_k",
+            "active": false,
+            "field": "",
+            "affiliation": "",
+            "link": "person/nakazawa_k.html",
+            "children": [
+              {
+                "name": "井田 茂",
+                "id": "ida_s",
+                "active": true,
+                "field": "",
+                "affiliation": "",
+                "link": "person/ida_s.html"
+              },
+              {
+                "name": "生駒 大洋",
+                "id": "ikoma_h",
+                "active": true,
+                "field": "",
+                "affiliation": "",
+                "link": "person/ikoma_h.html"
+              }
+            ]
           }
         ]
-      }
-    ]
-  },
-  {
-    "name": "小田 稔",
-    "id": "oda_m",
-    "active": false,
-    "field": "",
-    "affiliation": "",
-    "children": [
-      {
-        "name": "牧島 一夫",
-        "id": "makishima_k",
-        "active": false,
-        "field": "",
-        "affiliation": "",
-        "link": "person/makishima_k.html"
       }
     ]
   }
