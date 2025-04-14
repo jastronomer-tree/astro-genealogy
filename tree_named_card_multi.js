@@ -29,19 +29,11 @@ fetch('tree_data_with_fields.json')
       const g = svg.append("g")
         .attr("transform", `translate(100,${currentOffset})`);
 
-      const node = g.selectAll("g")
+      const node = g.selectAll("g.node")
         .data(nodes)
         .enter().append("g")
-        .attr("transform", d => `translate(${d.y},${d.x})`)
-        .on("click", function (event, d) {
-          if (d.children) {
-            d._children = d.children;
-            d.children = null;
-          } else {
-            d.children = d._children;
-            d._children = null;
-          }
-        });
+        .attr("class", "node")
+        .attr("transform", d => `translate(${d.y},${d.x})`);
 
       const boxWidth = 160;
       const boxHeight = 50;
@@ -71,9 +63,10 @@ fetch('tree_data_with_fields.json')
         .attr("font-size", "10px")
         .text(d => `${d.data.field}｜${d.data.affiliation}`);
 
-      g.selectAll("path")
+      g.selectAll("path.link")
         .data(links)
         .enter().append("path")
+        .attr("class", "link")
         .attr("fill", "none")
         .attr("stroke", "#ccc")
         .attr("stroke-width", 1.5)
