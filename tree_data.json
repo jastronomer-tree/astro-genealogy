@@ -1,0 +1,69 @@
+{
+  "name": "湯川 秀樹",
+  "id": "yukawa",
+  "active": false,
+  "children": [
+    {
+      "name": "林 忠四郎",
+      "id": "hayashi",
+      "active": false,
+      "children": [
+        {
+          "name": "蓬茨 霊運",
+          "id": "yoibari",
+          "active": false,
+          "children": [
+            {
+              "name": "野本 憲一",
+              "id": "nomoto",
+              "active": false,
+              "link": "person/nomoto.html",
+              "children": [
+                {
+                  "name": "橋本 正章",
+                  "id": "hashimoto",
+                  "active": true
+                },
+                {
+                  "name": "橘 孝博",
+                  "id": "tachibana",
+                  "active": true
+                },
+                {
+                  "name": "茂山 俊和",
+                  "id": "shigeyama",
+                  "active": true
+                },
+                {
+                  "name": "辻本 拓司",
+                  "id": "tsujimoto",
+                  "active": true
+                },
+                {
+                  "name": "熊谷 紫麻見",
+                  "id": "kumagai",
+                  "active": true
+                },
+                {
+                  "name": "山岡 均",
+                  "id": "yamaoka",
+                  "active": true
+                },
+                {
+                  "name": "鈴木 知治",
+                  "id": "suzuki",
+                  "active": true
+                },
+                {
+                  "name": "牧野 淳一郎",
+                  "id": "makino",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
