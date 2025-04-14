@@ -1,0 +1,103 @@
+{
+  "name": "湯川 秀樹",
+  "id": "yukawa",
+  "active": false,
+  "field": "",
+  "affiliation": "",
+  "children": [
+    {
+      "name": "林 忠四郎",
+      "id": "hayashi",
+      "active": false,
+      "field": "宇宙物理学",
+      "affiliation": "東京大学",
+      "link": "person/hayashi.html",
+      "children": [
+        {
+          "name": "蓬茨 霊運",
+          "id": "yoibari",
+          "active": false,
+          "field": "天体力学",
+          "affiliation": "京都大学",
+          "link": "person/yoibari.html",
+          "children": [
+            {
+              "name": "野本 憲一",
+              "id": "nomoto",
+              "active": false,
+              "field": "理論宇宙物理",
+              "affiliation": "東京大学",
+              "link": "person/nomoto.html",
+              "children": [
+                {
+                  "name": "橋本 正章",
+                  "id": "hashimoto",
+                  "active": true,
+                  "field": "宇宙論",
+                  "affiliation": "東京大学",
+                  "link": "person/hashimoto.html"
+                },
+                {
+                  "name": "橘 孝博",
+                  "id": "tachibana",
+                  "active": true,
+                  "field": "宇宙論",
+                  "affiliation": "京都大学",
+                  "link": "person/tachibana.html"
+                },
+                {
+                  "name": "茂山 俊和",
+                  "id": "shigeyama",
+                  "active": true,
+                  "field": "高エネルギー天体物理",
+                  "affiliation": "京都大学",
+                  "link": "person/shigeyama.html"
+                },
+                {
+                  "name": "辻本 拓司",
+                  "id": "tsujimoto",
+                  "active": true,
+                  "field": "ガンマ線天文学",
+                  "affiliation": "東北大学",
+                  "link": "person/tsujimoto.html"
+                },
+                {
+                  "name": "熊谷 紫麻見",
+                  "id": "kumagai",
+                  "active": true,
+                  "field": "銀河形成",
+                  "affiliation": "名古屋大学",
+                  "link": "person/kumagai.html"
+                },
+                {
+                  "name": "山岡 均",
+                  "id": "yamaoka",
+                  "active": true,
+                  "field": "恒星進化",
+                  "affiliation": "東京大学",
+                  "link": "person/yamaoka.html"
+                },
+                {
+                  "name": "鈴木 知治",
+                  "id": "suzuki",
+                  "active": true,
+                  "field": "計算宇宙物理",
+                  "affiliation": "国立天文台",
+                  "link": "person/suzuki.html"
+                },
+                {
+                  "name": "牧野 淳一郎",
+                  "id": "makino",
+                  "active": true,
+                  "field": "N体シミュレーション",
+                  "affiliation": "神戸大学",
+                  "link": "person/makino.html"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
