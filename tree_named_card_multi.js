@@ -2,8 +2,8 @@
 fetch('tree_data_with_fields.json')
   .then(response => response.json())
   .then(dataArray => {
-    const width = 1000;
-    const treeHeight = 300;
+    const width = 2000;
+    const treeHeight = 600;
     const spacing = 100;
 
     const totalHeight = dataArray.length * (treeHeight + spacing);
