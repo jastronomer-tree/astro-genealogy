@@ -1,170 +1,5 @@
 [
   {
-    "name": "湯川 秀樹",
-    "id": "yukawa_h",
-    "active": false,
-    "field": "",
-    "affiliation": "",
-    "children": [
-      {
-        "name": "林 忠四郎",
-        "id": "hayashi_t",
-        "active": false,
-        "field": "",
-        "affiliation": "",
-        "link": "person/hayashi_t.html",
-        "children": [
-          {
-            "name": "杉本　大一郎",
-            "id": "sugimoto_d",
-            "active": false,
-            "field": "",
-            "affiliation": "",
-            "link": "person/sugimoto_d.html",
-            "children": [
-              {
-                "name": "野本 憲一",
-                "id": "nomoto_k",
-                "active": true,
-                "field": "",
-                "affiliation": "",
-                "link": "person/nomoto_k.html",
-                "children": [
-                  {
-                    "name": "橋本 正章",
-                    "id": "hashimoto_m",
-                    "active": true,
-                    "field": "",
-                    "affiliation": "",
-                    "link": "person/hashimoto_m.html"
-                  },
-                  {
-                    "name": "茂山 俊和",
-                    "id": "shigeyama_t",
-                    "active": true,
-                    "field": "",
-                    "affiliation": "",
-                    "link": "person/shigeyama_t.html"
-                  },
-                  {
-                    "name": "辻本 拓司",
-                    "id": "tsujimoto_t",
-                    "active": true,
-                    "field": "",
-                    "affiliation": "",
-                    "link": "person/tsujimoto_t.html"
-                  },
-                  {
-                    "name": "山岡 均",
-                    "id": "yamaoka_h",
-                    "active": false,
-                    "field": "",
-                    "affiliation": "",
-                    "link": "person/yamaoka_h.html"
-                  }
-                ]
-              },
-              {
-                "name": "牧野 淳一郎",
-                "id": "makino_j",
-                "active": true,
-                "field": "",
-                "affiliation": "",
-                "link": "person/makino_j.html"
-              },
-              {
-                "name": "江里口 良治",
-                "id": "eriguchi_r",
-                "active": false,
-                "field": "",
-                "affiliation": "",
-                "link": "person/eriguchi_r.html"
-              },
-              {
-                "name": "戎崎 俊一",
-                "id": "ebisuzaki_t",
-                "active": true,
-                "field": "計算宇宙物理",
-                "affiliation": "",
-                "link": "person/ebisuzaki_t.html"
-              }
-            ]
-          },
-          {
-            "name": "冨田 憲二",
-            "id": "tomida_k",
-            "active": false,
-            "field": "",
-            "affiliation": "",
-            "link": "person/tomida_k.html",
-            "children": [
-              {
-                "name": "杉山 直",
-                "id": "sugiyama_n",
-                "active": true,
-                "field": "",
-                "affiliation": "名古屋大学",
-                "link": "person/sugiyama_n.html"
-              }
-            ]
-          },
-          {
-            "name": "佐藤 文隆",
-            "id": "sato_f",
-            "active": false,
-            "field": "",
-            "affiliation": "",
-            "link": "person/sato_f.html"
-          },
-          {
-            "name": "佐藤 勝彦",
-            "id": "sato_k",
-            "active": false,
-            "field": "",
-            "affiliation": "",
-            "link": "person/sato_k.html",
-            "children": [
-              {
-                "name": "須藤 靖",
-                "id": "suto_y",
-                "active": true,
-                "field": "",
-                "affiliation": "",
-                "link": "person/suto_y.html"
-              }
-            ]
-          },
-          {
-            "name": "高原 文郎",
-            "id": "takahara_f",
-            "active": false,
-            "field": "",
-            "affiliation": "",
-            "link": "person/takahara_f.html"
-          },
-          {
-            "name": "前田 恵一",
-            "id": "maeda_k",
-            "active": true,
-            "field": "",
-            "affiliation": "",
-            "link": "person/maeda_k.html",
-            "children": [
-              {
-                "name": "真貝 寿明",
-                "id": "shinkai_h",
-                "active": true,
-                "field": "",
-                "affiliation": "",
-                "link": "person/shinkai_h.html"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "朝永 振一郎",
     "id": "tomonaga_s",
     "active": false,
@@ -214,6 +49,259 @@
                 ]
               }
             ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "湯川 秀樹",
+    "id": "yukawa_h",
+    "active": false,
+    "field": "",
+    "affiliation": "",
+    "children": [
+      {
+        "name": "林 忠四郎",
+        "id": "hayashi_t",
+        "active": false,
+        "field": "",
+        "affiliation": "",
+        "link": "person/hayashi_t.html",
+        "children": [
+          {
+            "name": "杉本　大一郎",
+            "id": "sugimoto_d",
+            "active": false,
+            "field": "",
+            "affiliation": "",
+            "link": "person/sugimoto_d.html",
+            "children": [
+              {
+                "name": "野本 憲一",
+                "id": "nomoto_k",
+                "active": true,
+                "field": "",
+                "affiliation": "",
+                "link": "person/nomoto_k.html",
+                "children": [
+                  {
+                    "name": "橋本 正章",
+                    "id": "hashimoto_m",
+                    "active": true,
+                    "field": "",
+                    "affiliation": "",
+                    "link": "person/hashimoto_m.html"
+                  },
+                  {
+                    "name": "茂山 俊和",
+                    "id": "shigeyama_t",
+                    "active": true,
+                    "field": "",
+                    "affiliation": "東京大学",
+                    "link": "person/shigeyama_t.html"
+                  },
+                  {
+                    "name": "田中 雅臣",
+                    "id": "tanaka_m",
+                    "active": true,
+                    "field": "",
+                    "affiliation": "東北大学",
+                    "link": "person/tanaka_m.html"
+                  },
+                  {
+                    "name": "山岡 均",
+                    "id": "yamaoka_h",
+                    "active": false,
+                    "field": "",
+                    "affiliation": "",
+                    "link": "person/yamaoka_h.html"
+                  }
+                ]
+              },
+              {
+                "name": "牧野 淳一郎",
+                "id": "makino_j",
+                "active": true,
+                "field": "",
+                "affiliation": "神戸大学",
+                "link": "person/makino_j.html"
+              },
+              {
+                "name": "江里口 良治",
+                "id": "eriguchi_r",
+                "active": false,
+                "field": "",
+                "affiliation": "",
+                "link": "person/eriguchi_r.html"
+              },
+              {
+                "name": "戎崎 俊一",
+                "id": "ebisuzaki_t",
+                "active": true,
+                "field": "",
+                "affiliation": "",
+                "link": "person/ebisuzaki_t.html"
+              }
+            ]
+          },
+          {
+            "name": "冨田 憲二",
+            "id": "tomida_k",
+            "active": false,
+            "field": "",
+            "affiliation": "",
+            "link": "person/tomida_k.html",
+            "children": [
+              {
+                "name": "杉山 直",
+                "id": "sugiyama_n",
+                "active": true,
+                "field": "",
+                "affiliation": "名古屋大学",
+                "link": "person/sugiyama_n.html"
+              }
+            ]
+          },
+          {
+            "name": "佐藤 文隆",
+            "id": "sato_f",
+            "active": false,
+            "field": "",
+            "affiliation": "",
+            "link": "person/sato_f.html",
+            "children": [
+              {
+                "name": "佐々木 節",
+                "id": "sasaki_m",
+                "active": false,
+                "field": "",
+                "affiliation": "",
+                "link": "person/sasaki_m.html"
+              },
+              {
+                "name": "郷田 直輝",
+                "id": "gouda_n",
+                "active": true,
+                "field": "",
+                "affiliation": "",
+                "link": "person/gouda_n.html"
+              }
+            ]
+          },
+          {
+            "name": "佐藤 勝彦",
+            "id": "sato_k",
+            "active": false,
+            "field": "",
+            "affiliation": "",
+            "link": "person/sato_k.html",
+            "children": [
+              {
+                "name": "須藤 靖",
+                "id": "suto_y",
+                "active": true,
+                "field": "",
+                "affiliation": "高知工科大学",
+                "link": "person/suto_y.html"
+              }
+            ]
+          },
+          {
+            "name": "高原 文郎",
+            "id": "takahara_f",
+            "active": false,
+            "field": "",
+            "affiliation": "",
+            "link": "person/takahara_f.html"
+          },
+          {
+            "name": "前田 恵一",
+            "id": "maeda_k",
+            "active": false,
+            "field": "",
+            "affiliation": "",
+            "link": "person/maeda_k.html",
+            "children": [
+              {
+                "name": "真貝 寿明",
+                "id": "shinkai_h",
+                "active": true,
+                "field": "",
+                "affiliation": "大阪工業大学",
+                "link": "person/shinkai_h.html"
+              }
+            ]
+          },
+          {
+            "name": "蓬茨 霊運",
+            "id": "houshi_r",
+            "active": false,
+            "field": "",
+            "affiliation": "",
+            "link": "person/houshi_r.html",
+            "children": [
+              {
+                "name": "柴崎 徳明",
+                "id": "shibasaki_n",
+                "active": false,
+                "field": "",
+                "affiliation": "",
+                "link": "person/shibasaki_n.html"
+              },
+              {
+                "name": "加藤 万里子",
+                "id": "kato_m",
+                "active": false,
+                "field": "",
+                "affiliation": "",
+                "link": "person/kato_m.html"
+              }
+            ]
+          },
+          {
+            "name": "池内 了",
+            "id": "ikeuchi_s",
+            "active": false,
+            "field": "",
+            "affiliation": "",
+            "link": "person/ikeuchi_s.html",
+            "children": [
+              {
+                "name": "梅村 雅之",
+                "id": "umemura_m",
+                "active": false,
+                "field": "",
+                "affiliation": "",
+                "link": "person/umemura_m.html",
+                "children": [
+                  {
+                    "name": "大須賀 健",
+                    "id": "ohsuga_k",
+                    "active": true,
+                    "field": "",
+                    "affiliation": "筑波大学",
+                    "link": "person/ohsuga_k.html"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "中村 卓史",
+            "id": "nakamura_t",
+            "active": false,
+            "field": "",
+            "affiliation": "",
+            "link": "person/nakamura_t.html"
+          },
+          {
+            "name": "森川 雅博",
+            "id": "morikawa_m",
+            "active": false,
+            "field": "",
+            "affiliation": "",
+            "link": "person/morikawa_m.html"
           }
         ]
       }
