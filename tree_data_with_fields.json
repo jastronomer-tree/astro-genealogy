@@ -106,6 +106,58 @@
               "link": "person/sugiyama_n.html"
             }
           ]
+        },
+        {
+          "name": "佐藤 文隆",
+          "id": "sato_f",
+          "active": false,
+          "field": "",
+          "affiliation": "",
+          "link": "person/sato_f.html"
+        },
+        {
+          "name": "佐藤 勝彦",
+          "id": "sato_k",
+          "active": false,
+          "field": "",
+          "affiliation": "",
+          "link": "person/sato_k.html",
+          "children": [
+            {
+              "name": "須藤 靖",
+              "id": "suto_y",
+              "active": true,
+              "field": "",
+              "affiliation": "",
+              "link": "person/suto_y.html"
+            }
+          ]
+        },
+        {
+          "name": "高原 文郎",
+          "id": "takahara_f",
+          "active": false,
+          "field": "",
+          "affiliation": "",
+          "link": "person/takahara_f.html"
+        },
+        {
+          "name": "前田 恵一",
+          "id": "maeda_k",
+          "active": true,
+          "field": "",
+          "affiliation": "",
+          "link": "person/maeda_k.html",
+          "children": [
+            {
+              "name": "真貝 寿明",
+              "id": "shinkai_h",
+              "active": true,
+              "field": "",
+              "affiliation": "",
+              "link": "person/shinkai_h.html"
+            }
+          ]
         }
       ]
     }
