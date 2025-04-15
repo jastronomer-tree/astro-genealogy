@@ -1,1 +1,487 @@
-[]
+[
+  {
+    "id": "tomonaga_s",
+    "name": "朝永 振一郎",
+    "active": false,
+    "year": 1943,
+    "field": "",
+    "affiliation": "",
+    "link": "",
+    "children": [
+      {
+        "id": "hayakawa_y",
+        "name": "早川 幸男",
+        "active": false,
+        "year": 1950,
+        "field": "",
+        "affiliation": "",
+        "link": "hayakawa_y.html",
+        "children": [
+          {
+            "id": "okuda_h",
+            "name": "奥田 治之",
+            "active": false,
+            "year": null,
+            "field": "",
+            "affiliation": "",
+            "link": "okuda_h.html",
+            "children": [
+              {
+                "id": "sato_sj",
+                "name": "佐藤 修二",
+                "active": false,
+                "year": null,
+                "field": "",
+                "affiliation": "",
+                "link": "sato_sj.html",
+                "children": [
+                  {
+                    "id": "nagata_t",
+                    "name": "長田 哲也",
+                    "active": false,
+                    "year": null,
+                    "field": "",
+                    "affiliation": "",
+                    "link": "nagata_t.html"
+                  },
+                  {
+                    "id": "tamura_m",
+                    "name": "田村 元秀",
+                    "active": false,
+                    "year": null,
+                    "field": "",
+                    "affiliation": "",
+                    "link": "tamura_m.html"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hagiwara_y",
+    "name": "萩原 雄祐",
+    "active": false,
+    "year": 1936,
+    "field": "",
+    "affiliation": "",
+    "link": "",
+    "children": [
+      {
+        "id": "unnno_w",
+        "name": "海野 和三郎",
+        "active": false,
+        "year": 1955,
+        "field": "",
+        "affiliation": "",
+        "link": "unnno_w.html",
+        "children": [
+          {
+            "id": "ozaki_y",
+            "name": "尾崎 洋二",
+            "active": false,
+            "year": 1964,
+            "field": "",
+            "affiliation": "",
+            "link": "ozaki_y.html",
+            "children": [
+              {
+                "id": "mineshige_s",
+                "name": "嶺重慎",
+                "active": false,
+                "year": null,
+                "field": "",
+                "affiliation": "",
+                "link": "mineshige_s.html"
+              }
+            ]
+          },
+          {
+            "id": "kato_s",
+            "name": "加藤 正二",
+            "active": false,
+            "year": null,
+            "field": "",
+            "affiliation": "",
+            "link": "kato_s.html"
+          },
+          {
+            "id": "sofue_y",
+            "name": "祖父江 義明",
+            "active": false,
+            "year": 1972,
+            "field": "",
+            "affiliation": "",
+            "link": "sofue_y.html",
+            "children": [
+              {
+                "id": "honnma_m",
+                "name": "本間 希樹",
+                "active": true,
+                "year": null,
+                "field": "",
+                "affiliation": "",
+                "link": "honnma_m.html"
+              },
+              {
+                "id": "hannda_t",
+                "name": "半田 利弘",
+                "active": false,
+                "year": null,
+                "field": "",
+                "affiliation": "",
+                "link": "hannda_t.html"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "hori_g",
+        "name": "堀 源一郎",
+        "active": false,
+        "year": null,
+        "field": "",
+        "affiliation": "",
+        "link": "hori_g.html"
+      }
+    ]
+  },
+  {
+    "id": "yukawa_h",
+    "name": "湯川 秀樹",
+    "active": false,
+    "year": 1934,
+    "field": "",
+    "affiliation": "",
+    "link": "",
+    "children": [
+      {
+        "id": "hayashi_t",
+        "name": "林 忠四郎",
+        "active": false,
+        "year": 1954,
+        "field": "",
+        "affiliation": "",
+        "link": "hayashi_t.html",
+        "children": [
+          {
+            "id": "sugimoto_d",
+            "name": "杉本　大一郎",
+            "active": false,
+            "year": 1964,
+            "field": "",
+            "affiliation": "",
+            "link": "sugimoto_d.html",
+            "children": [
+              {
+                "id": "nomoto_k",
+                "name": "野本 憲一",
+                "active": true,
+                "year": 1974,
+                "field": "",
+                "affiliation": "",
+                "link": "nomoto_k.html",
+                "children": [
+                  {
+                    "id": "shigeyama_t",
+                    "name": "茂山 俊和",
+                    "active": true,
+                    "year": 1989,
+                    "field": "",
+                    "affiliation": "東京大学",
+                    "link": "shigeyama_t.html"
+                  },
+                  {
+                    "id": "tanaka_m",
+                    "name": "田中 雅臣",
+                    "active": true,
+                    "year": 2009,
+                    "field": "",
+                    "affiliation": "東北大学",
+                    "link": "tanaka_m.html"
+                  }
+                ]
+              },
+              {
+                "id": "makino_j",
+                "name": "牧野 淳一郎",
+                "active": true,
+                "year": 1990,
+                "field": "",
+                "affiliation": "神戸大学",
+                "link": "makino_j.html"
+              },
+              {
+                "id": "eriguchi_r",
+                "name": "江里口 良治",
+                "active": false,
+                "year": 1978,
+                "field": "",
+                "affiliation": "",
+                "link": "eriguchi_r.html"
+              },
+              {
+                "id": "ebisuzaki_t",
+                "name": "戎崎 俊一",
+                "active": true,
+                "year": 1986,
+                "field": "",
+                "affiliation": "",
+                "link": "ebisuzaki_t.html"
+              }
+            ]
+          },
+          {
+            "id": "tomida_k",
+            "name": "冨田 憲二",
+            "active": false,
+            "year": 1966,
+            "field": "",
+            "affiliation": "",
+            "link": "tomida_k.html",
+            "children": [
+              {
+                "id": "sugiyama_n",
+                "name": "杉山 直",
+                "active": true,
+                "year": 1989,
+                "field": "",
+                "affiliation": "名古屋大学",
+                "link": "sugiyama_n.html"
+              }
+            ]
+          },
+          {
+            "id": "sato_f",
+            "name": "佐藤 文隆",
+            "active": false,
+            "year": 1966,
+            "field": "",
+            "affiliation": "",
+            "link": "sato_f.html",
+            "children": [
+              {
+                "id": "sasaki_m",
+                "name": "佐々木 節",
+                "active": false,
+                "year": 1981,
+                "field": "",
+                "affiliation": "",
+                "link": "sasaki_m.html"
+              },
+              {
+                "id": "gouda_n",
+                "name": "郷田 直輝",
+                "active": true,
+                "year": 1989,
+                "field": "",
+                "affiliation": "",
+                "link": "gouda_n.html"
+              }
+            ]
+          },
+          {
+            "id": "sato_k",
+            "name": "佐藤 勝彦",
+            "active": false,
+            "year": 1974,
+            "field": "",
+            "affiliation": "",
+            "link": "sato_k.html",
+            "children": [
+              {
+                "id": "suto_y",
+                "name": "須藤 靖",
+                "active": true,
+                "year": 1986,
+                "field": "",
+                "affiliation": "高知工科大学",
+                "link": "suto_y.html"
+              },
+              {
+                "id": "totani_t",
+                "name": "戸谷 友則",
+                "active": true,
+                "year": 1998,
+                "field": "",
+                "affiliation": "",
+                "link": "totani_t.html"
+              }
+            ]
+          },
+          {
+            "id": "takahara_f",
+            "name": "高原 文郎",
+            "active": false,
+            "year": 1977,
+            "field": "",
+            "affiliation": "",
+            "link": "takahara_f.html"
+          },
+          {
+            "id": "maeda_k",
+            "name": "前田 恵一",
+            "active": false,
+            "year": 1980,
+            "field": "",
+            "affiliation": "",
+            "link": "maeda_k.html",
+            "children": [
+              {
+                "id": "shinkai_h",
+                "name": "真貝 寿明",
+                "active": true,
+                "year": 1995,
+                "field": "",
+                "affiliation": "大阪工業大学",
+                "link": "shinkai_h.html"
+              }
+            ]
+          },
+          {
+            "id": "houshi_r",
+            "name": "蓬茨 霊運",
+            "active": false,
+            "year": 1968,
+            "field": "",
+            "affiliation": "",
+            "link": "houshi_r.html",
+            "children": [
+              {
+                "id": "shibasaki_n",
+                "name": "柴崎 徳明",
+                "active": false,
+                "year": null,
+                "field": "",
+                "affiliation": "",
+                "link": "shibasaki_n.html"
+              },
+              {
+                "id": "kato_m",
+                "name": "加藤 万里子",
+                "active": false,
+                "year": null,
+                "field": "",
+                "affiliation": "",
+                "link": "kato_m.html"
+              }
+            ]
+          },
+          {
+            "id": "ikeuchi_s",
+            "name": "池内 了",
+            "active": false,
+            "year": 1975,
+            "field": "",
+            "affiliation": "",
+            "link": "ikeuchi_s.html",
+            "children": [
+              {
+                "id": "umemura_m",
+                "name": "梅村 雅之",
+                "active": false,
+                "year": 1987,
+                "field": "",
+                "affiliation": "",
+                "link": "umemura_m.html",
+                "children": [
+                  {
+                    "id": "ohsuga_k",
+                    "name": "大須賀 健",
+                    "active": true,
+                    "year": 2001,
+                    "field": "",
+                    "affiliation": "筑波大学",
+                    "link": "ohsuga_k.html"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "nakamura_t",
+            "name": "中村 卓史",
+            "active": false,
+            "year": 1978,
+            "field": "",
+            "affiliation": "",
+            "link": "nakamura_t.html"
+          },
+          {
+            "id": "morikawa_m",
+            "name": "森川 雅博",
+            "active": false,
+            "year": 1987,
+            "field": "",
+            "affiliation": "",
+            "link": "morikawa_m.html"
+          },
+          {
+            "id": "nakazawa_k",
+            "name": "中澤 清",
+            "active": false,
+            "year": 1972,
+            "field": "",
+            "affiliation": "",
+            "link": "nakazawa_k.html",
+            "children": [
+              {
+                "id": "ida_s",
+                "name": "井田 茂",
+                "active": true,
+                "year": 1989,
+                "field": "",
+                "affiliation": "",
+                "link": "ida_s.html"
+              },
+              {
+                "id": "ikoma_h",
+                "name": "生駒 大洋",
+                "active": true,
+                "year": 2001,
+                "field": "",
+                "affiliation": "",
+                "link": "ikoma_h.html"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "watase_y",
+    "name": "渡瀬 諭",
+    "active": false,
+    "year": 1940,
+    "field": "",
+    "affiliation": "",
+    "link": "",
+    "children": [
+      {
+        "id": "oda_m",
+        "name": "小田 稔",
+        "active": false,
+        "year": 1956,
+        "field": "",
+        "affiliation": "",
+        "link": "oda_m.html",
+        "children": [
+          {
+            "id": "makishima_k",
+            "name": "牧島 一夫",
+            "active": false,
+            "year": 1986,
+            "field": "",
+            "affiliation": "",
+            "link": "makishima_k.html"
+          }
+        ]
+      }
+    ]
+  }
+]
